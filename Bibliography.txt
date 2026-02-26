@@ -1,0 +1,16 @@
+-> Prophet is an open-source, additive regression model developed by Meta for forecasting time-series data with strong seasonal effects and historical trends.
+
+-> The Isolation Forest is an ensemble of “Isolation Trees” that “isolate” observations by recursive random partitioning, which can be represented by a tree structure. The number of splittings required to isolate a sample is lower for outliers and higher for inliers.
+
+
+-> The Pipeline is a high-level inference class that supports text, audio, vision, and multimodal tasks. It handles preprocessing the input and returns the appropriate output.
+
+-> Transformers acts as the model-definition framework for state-of-the-art machine learning with text, computer vision, audio, video, and multimodal models, for both inference and training.
+
+-> XGBoost (eXtreme Gradient Boosting) is a powerful machine learning algorithm used for high-performance, scalable solutions in both classification (predicting categories like spam/not spam) and regression (predicting continuous values like house prices) tasks, excelling on structured/tabular data by combining many weak decision trees into a strong model.
+
+
+-> CountVectorizer is a text pre-processing tool that converts a collection of text documents into a matrix of token counts (the "bag-of-words" model). Each row represents a document, and each column represents a unique word in the entire corpus, with the value being the frequency of that word in the specific document.
+
+
+-> LatentDirichletAllocation (LDA) is an unsupervised machine learning method used for topic modeling. It takes the count matrix produced by CountVectorizer as input and decomposes it to infer hidden "topics" within the documents. Each topic is represented as a distribution over words, and each document is represented as a distribution over topics.
